@@ -1,1 +1,1 @@
-Apredendo a como usar o git nesse projeto
+Aprendendo a como usar o git nesse projeto
